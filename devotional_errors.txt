@@ -1,0 +1,3396 @@
+
+http://ymi.today/2015/04/poem-the-day-my-savior-was-led-away/
+'NoneType' object has no attribute 'text'
+
+http://ymi.today/2016/03/poem-third-day/
+'NoneType' object has no attribute 'text'
+
+http://ymi.today/2016/08/finding-the-gps-that-never-fails/
+Exceeded 30 redirects.
+
+http://ymi.today/2016/11/poem-song-of-praise/
+'NoneType' object has no attribute 'text'
+
+http://ymi.today/2016/01/poem-by-your-side/
+'NoneType' object has no attribute 'text'
+
+http://ymi.today/2016/03/poem-forgive-me-truth/
+'NoneType' object has no attribute 'text'
+
+http://ymi.today/2015/10/poem-things-i-cannot-change/
+'NoneType' object has no attribute 'text'
+
+http://ymi.today/2016/02/poem-light-everywhere/
+'NoneType' object has no attribute 'text'
+
+http://ymi.today/2015/10/poem-after-you-have-sinned/
+'NoneType' object has no attribute 'text'
+
+http://ymi.today/2015/07/how-taking-up-the-cross-became-a-daily-affair/
+Navigation Timeout Exceeded: 8000 ms exceeded.
+
+http://ymi.today/2016/10/poem-this-grace-disgraced/
+'NoneType' object has no attribute 'text'
+
+http://ymi.today/2015/11/poem-dry-spell/
+'NoneType' object has no attribute 'text'
+
+http://ymi.today/2015/09/new-dislike-button-like-or-dislike/
+'NoneType' object has no attribute 'text'
+
+http://ymi.today/2015/11/poem-a-life-transformed/
+'NoneType' object has no attribute 'text'
+
+http://ymi.today/2015/12/poem-when-life-hurts/
+'NoneType' object has no attribute 'text'
+
+http://ymi.today/2015/05/poem-a-lesson-on-love-from-mary-of-bethany/
+'NoneType' object has no attribute 'text'
+
+http://ymi.today/2016/10/what-is-life/
+'NoneType' object has no attribute 'text'
+
+http://ymi.today/2015/05/when-i-remember-peter/
+'NoneType' object has no attribute 'text'
+
+http://ymi.today/2017/04/poem-salvation/
+'NoneType' object has no attribute 'text'
+
+http://odb.org/2013/12/15/canceled-christmas/
+list index out of range
+
+http://odb.org/2016/08/28/naming-god/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/03/06/bumper-cars/
+list index out of range
+
+http://odb.org/2013/12/01/god-waiting/
+list index out of range
+
+http://odb.org/2012/12/20/the-gift/
+list index out of range
+
+https://odb.org/2017/03/01/all-of-me/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2018/03/09/direct-instructions/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2016/12/13/good-news-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/05/15/strong-words/
+list index out of range
+
+http://odb.org/2015/07/28/pencil-battle/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/06/07/guarding-hearts/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/12/15/a-supporting-role/
+list index out of range
+
+https://odb.org/2020/01/12/singing-naturally/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2006/05/28/the-angel-of-music/
+list index out of range
+
+http://odb.org/2014/02/08/unintentional/
+list index out of range
+
+http://odb.org/2013/07/21/arrogance-and-pride/
+list index out of range
+
+http://odb.org/2013/06/12/unfinished-business/
+list index out of range
+
+http://odb.org/2011/07/23/an-amazing-view/
+list index out of range
+
+https://odb.org/2018/04/25/amnesia-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/08/19/the-human-camera/
+list index out of range
+
+http://odb.org/2013/08/21/living-beyond-the-odds/
+list index out of range
+
+http://odb.org/2012/12/18/opened-ears/
+list index out of range
+
+http://odb.org/2011/11/29/honoring-your-parents/
+list index out of range
+
+http://odb.org/2010/05/19/secondhand-faith/
+list index out of range
+
+http://odb.org/2003/09/07/why-they-are-grand/
+list index out of range
+
+http://odb.org/2013/03/23/hope-is-for/
+list index out of range
+
+http://odb.org/2011/11/14/grieving-from-a-to-z/
+list index out of range
+
+http://odb.org/2013/05/17/gods-strong-arm/
+list index out of range
+
+http://odb.org/2013/08/07/childhood-beginnings/
+list index out of range
+
+http://odb.org/2011/08/02/awakened-by-a-close-friend/
+list index out of range
+
+http://odb.org/2013/11/01/loved-to-love/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/09/19/seasons-of-ups-and-downs/
+list index out of range
+
+https://odb.org/2017/11/11/the-good-earth/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/11/07/from-head-to-heart/
+list index out of range
+
+http://odb.org/2013/07/17/what-we-talk-about/
+list index out of range
+
+http://odb.org/2012/01/22/thank-god-for-music/
+list index out of range
+
+http://odb.org/2012/09/26/capture-the-moment/
+list index out of range
+
+http://odb.org/2010/03/18/who-are-you/
+list index out of range
+
+https://odb.org/2017/04/22/always-listening/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2014/01/09/as-below-so-above/
+list index out of range
+
+http://odb.org/2010/02/01/the-written-word/
+list index out of range
+
+http://odb.org/2010/04/29/our-demanding-schedules/
+list index out of range
+
+http://odb.org/2012/04/05/worlds-longest-table/
+list index out of range
+
+http://odb.org/2012/01/16/the-book-of-nature/
+list index out of range
+
+http://odb.org/2013/04/17/all-the-comforts-of-home/
+list index out of range
+
+http://odb.org/2016/05/10/our-divine-defense/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/04/06/spiritual-superstars/
+list index out of range
+
+http://odb.org/2013/12/03/one-stretch/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/05/03/mommas-rules/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/02/10/greek-fire/
+list index out of range
+
+http://odb.org/2011/03/02/virtuoso/
+list index out of range
+
+http://odb.org/2013/01/08/where-sinners-go/
+list index out of range
+
+http://odb.org/2013/07/25/where-can-wisdom-be-found/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2016/04/21/jesus-wept/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/06/23/water-problems/
+list index out of range
+
+https://odb.org/2018/08/16/heart-hunger/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2020/06/07/adrift/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/04/01/feeding-ourselves/
+list index out of range
+
+http://odb.org/2010/04/05/the-power-of-praise/
+list index out of range
+
+http://odb.org/2012/10/14/lessons-from-a-fence/
+list index out of range
+
+https://odb.org/2018/04/01/despised-for-all-of-this/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/06/01/im-bored/
+list index out of range
+
+https://odb.org/2017/05/29/let-honor-meet-honor-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/07/06/stop/
+list index out of range
+
+http://odb.org/2011/06/15/do-i-have-to-read-leviticus/
+list index out of range
+
+http://odb.org/2013/04/20/wonderfully-made-3/
+list index out of range
+
+http://odb.org/2013/03/30/you-can-beat-it/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/07/16/hard-way-to-strength/
+list index out of range
+
+http://odb.org/2012/11/06/the-romance/
+list index out of range
+
+http://odb.org/2013/05/10/waiting-to-cheer/
+list index out of range
+
+http://odb.org/2011/03/31/valid-entry/
+list index out of range
+
+http://odb.org/2010/02/17/in-the-car-wash/
+list index out of range
+
+http://odb.org/2011/06/21/unexpected-blessing/
+list index out of range
+
+http://odb.org/2013/04/10/keep-it-simple/
+list index out of range
+
+http://odb.org/2013/07/24/too-blessed/
+list index out of range
+
+http://odb.org/2014/12/21/just-the-right-time/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2017/06/03/someone-to-trust/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/02/15/heat-and-holiness/
+list index out of range
+
+http://odb.org/2012/02/14/benefits-of-friendship/
+list index out of range
+
+http://odb.org/2012/10/17/before-the-beginning/
+list index out of range
+
+http://odb.org/2013/12/27/the-challenge-of-confinement/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/04/08/guard-your-brand/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/07/25/the-pleasure-is-mine/
+list index out of range
+
+http://odb.org/2013/05/19/to-be-continued-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/05/24/simplify/
+list index out of range
+
+https://odb.org/2018/03/08/age-old-wisdom/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/03/26/worthy-of-respect/
+list index out of range
+
+http://odb.org/2011/09/13/character-amnesia/
+list index out of range
+
+http://odb.org/2012/12/03/the-spirit-of-the-age/
+list index out of range
+
+http://odb.org/2011/08/17/friends-in-the-night/
+list index out of range
+
+https://odb.org/2018/01/03/breathtaking-glory/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/02/07/the-armies-of-god/
+list index out of range
+
+http://odb.org/2013/10/29/wonderful-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/01/09/making-it-right/
+list index out of range
+
+http://odb.org/2013/09/22/the-good-and-the-bad-2/
+list index out of range
+
+http://odb.org/2013/02/23/no-simple-recipe/
+list index out of range
+
+http://odb.org/2015/10/07/unclear-vision/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2015/01/26/strengthen-my-hands/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2017/02/15/little-lies-and-kittens/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/01/07/fully-equipped/
+list index out of range
+
+http://odb.org/2012/12/15/twenty-seven-percent/
+list index out of range
+
+http://odb.org/2010/04/11/a-memorial/
+list index out of range
+
+http://odb.org/2013/12/23/god-with-us/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/02/20/the-remedy-for-fear/
+list index out of range
+
+http://odb.org/2011/10/22/so-long/
+list index out of range
+
+http://odb.org/2011/04/13/sourdough-bread/
+list index out of range
+
+http://odb.org/2011/12/21/rejected-light/
+list index out of range
+
+http://odb.org/2011/06/27/what-are-you-known-for/
+list index out of range
+
+http://odb.org/2013/04/09/is-ambition-wrong/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/05/19/a-sense-of-history/
+list index out of range
+
+http://odb.org/2012/08/30/panning-for-gold/
+list index out of range
+
+http://odb.org/2010/07/21/bridging-the-gap/
+list index out of range
+
+http://odb.org/2012/03/19/the-wonder-of-wilderness/
+list index out of range
+
+http://odb.org/2013/02/28/pack-up-your-sorrows/
+list index out of range
+
+http://odb.org/2015/03/28/trail-trees/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/07/06/something-better/
+list index out of range
+
+http://odb.org/2011/12/24/death-destroyed/
+list index out of range
+
+http://odb.org/2013/07/13/the-life-wed-like-to-see/
+list index out of range
+
+http://odb.org/2011/02/27/a-bouquet-of-praise/
+list index out of range
+
+http://odb.org/2013/07/14/warning-sign/
+list index out of range
+
+https://odb.org/2018/09/21/the-whisperer/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/09/18/roughing-the-pastor/
+list index out of range
+
+http://odb.org/2011/01/14/call-it-good/
+list index out of range
+
+http://odb.org/2010/04/06/for-this-i-have-jesus/
+list index out of range
+
+http://odb.org/2013/09/11/its-all-about-the-love/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/12/09/because-of-love-2/
+list index out of range
+
+http://odb.org/2013/12/10/a-giving-competition/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/08/05/the-other-eighty-percent/
+list index out of range
+
+http://odb.org/2010/03/09/dont-forget/
+list index out of range
+
+http://odb.org/2012/10/28/from-a-distance/
+list index out of range
+
+http://odb.org/2013/05/05/digesting-the-word/
+list index out of range
+
+http://odb.org/2012/11/04/six-word-testimony/
+list index out of range
+
+http://odb.org/2011/03/11/the-overflow/
+list index out of range
+
+http://odb.org/2013/10/27/god-in-the-storm/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/09/13/flying-solo/
+list index out of range
+
+http://odb.org/2011/07/03/open-wide-3/
+list index out of range
+
+http://odb.org/2013/08/24/on-my-side/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/12/25/now-is-the-time/
+list index out of range
+
+http://odb.org/2011/06/04/impact-for-christ/
+list index out of range
+
+https://odb.org/2018/08/22/gods-care-for-us/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/09/06/seeing-god’s-hand/
+list index out of range
+
+http://odb.org/2013/12/28/the-presentation/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/10/23/he-guards-me-well/
+list index out of range
+
+http://odb.org/2012/11/12/at-risk-for-the-savior/
+list index out of range
+
+http://odb.org/2009/08/04/our-moral-compass/
+list index out of range
+
+http://odb.org/2012/10/27/titanic-ii/
+list index out of range
+
+http://odb.org/2013/09/29/color-courage/
+list index out of range
+
+http://odb.org/2013/02/13/a-small-sacrifice/
+list index out of range
+
+http://odb.org/2013/06/08/where-did-i-come-from/
+list index out of range
+
+http://odb.org/2013/09/06/longing-to-grow/
+list index out of range
+
+http://odb.org/2012/09/10/giving-directions/
+list index out of range
+
+http://odb.org/2011/12/08/only-a-sketch/
+list index out of range
+
+http://odb.org/2013/01/01/the-good-life-4/
+list index out of range
+
+http://odb.org/2010/04/21/false-hope/
+list index out of range
+
+http://odb.org/2012/02/26/the-devil-in-court/
+list index out of range
+
+http://odb.org/2010/05/22/i-shall-not-want/
+list index out of range
+
+http://odb.org/2016/04/28/an-amazing-love/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/01/02/trouble-2/
+list index out of range
+
+http://odb.org/2015/02/19/whose-will/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/01/12/the-gift-of-sleep/
+list index out of range
+
+http://odb.org/2012/08/15/hopes-and-dreams/
+list index out of range
+
+http://odb.org/2012/10/31/something-to-hide/
+list index out of range
+
+http://odb.org/2011/12/11/breathtaking/
+list index out of range
+
+http://odb.org/2010/02/11/the-other-side/
+list index out of range
+
+http://odb.org/2013/03/27/out-of-context/
+list index out of range
+
+http://odb.org/2011/05/21/fresh-fruit/
+list index out of range
+
+http://odb.org/2012/11/19/falling-short-2/
+list index out of range
+
+https://odb.org/2019/10/28/walk-like-a-warrior/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/07/16/judge-not/
+list index out of range
+
+https://odb.org/2018/04/20/the-art-of-forgiveness/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/01/26/story-time/
+list index out of range
+
+http://odb.org/2013/11/21/that-name/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/03/17/who-owns-my-lips/
+list index out of range
+
+http://odb.org/2013/02/14/second-best/
+list index out of range
+
+http://odb.org/2010/02/10/rich-toward-god/
+list index out of range
+
+http://odb.org/2012/01/25/worth-the-effort/
+list index out of range
+
+http://odb.org/2012/12/07/just-kids/
+list index out of range
+
+http://odb.org/2013/06/11/savor-every-bite/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2017/10/29/trust-tally/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2015/01/11/whats-your-motto/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/08/23/starting-young/
+list index out of range
+
+http://odb.org/2010/10/07/hold-my-hand/
+list index out of range
+
+http://odb.org/2013/06/21/greedy-birds/
+list index out of range
+
+https://odb.org/2017/09/28/the-day-i-couldnt-pray/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/10/20/stray-hearts/
+list index out of range
+
+http://odb.org/2013/07/20/earworms/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/02/18/invite-questions/
+list index out of range
+
+http://odb.org/2012/06/18/hidden-away/
+list index out of range
+
+http://odb.org/2012/09/04/well-prepared/
+list index out of range
+
+http://odb.org/2012/01/18/regaining-our-balance/
+list index out of range
+
+http://odb.org/2012/12/16/joy/
+list index out of range
+
+http://odb.org/2012/08/20/unrewarded/
+list index out of range
+
+http://odb.org/2017/02/03/i-see-you/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/09/09/lesson-of-the-horse-mask/
+list index out of range
+
+http://odb.org/2014/07/31/just-as-i-am-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/02/25/imagine-that/
+list index out of range
+
+https://odb.org/2017/07/03/destroying-the-divides/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/05/31/remember-the-sacrifice/
+list index out of range
+
+http://odb.org/2010/01/25/deadly-sins/
+list index out of range
+
+http://odb.org/2013/07/08/jesus-loves-me/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/11/19/when-god-cleans-house/
+list index out of range
+
+http://odb.org/2011/10/04/no-authority/
+list index out of range
+
+https://odb.org/2018/07/10/leviathan-frolics/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/08/04/take-time-to-ponder/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/12/12/zebras-and-wildebeests/
+list index out of range
+
+http://odb.org/2011/11/13/be-who-you-are/
+list index out of range
+
+http://odb.org/2009/03/05/idols-in-the-heart-2/
+list index out of range
+
+http://odb.org/2013/05/14/becoming/
+list index out of range
+
+http://odb.org/2012/11/18/warning-labels/
+list index out of range
+
+http://odb.org/2011/10/25/poetic-justice-2/
+list index out of range
+
+http://odb.org/2013/04/06/unseen-danger/
+list index out of range
+
+http://odb.org/2010/01/02/always-with-you/
+list index out of range
+
+http://odb.org/2016/02/05/a-serving-leader/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/09/27/fire-and-rain/
+list index out of range
+
+http://odb.org/2015/12/03/when-not-to-rejoice/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/12/13/lasting-rewards/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2014/05/16/many-advisors/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/02/21/jars-of-clay/
+list index out of range
+
+http://odb.org/2013/04/01/no-substitute-needed/
+list index out of range
+
+http://odb.org/2015/03/10/unexpected-encounter/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/07/24/stay-close/
+list index out of range
+
+http://odb.org/2010/11/03/it-can-never-happen-to-me/
+list index out of range
+
+http://odb.org/2005/05/20/money-matters/
+list index out of range
+
+http://odb.org/2012/11/27/more-and-more/
+list index out of range
+
+http://odb.org/2005/01/05/enough/
+list index out of range
+
+http://odb.org/2013/08/29/overwhelming-concern/
+list index out of range
+
+http://odb.org/2012/02/11/a-covenant-with-my-eyes/
+list index out of range
+
+http://odb.org/2013/05/18/true-hospitality/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2017/09/09/seeing-god-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/02/09/glorifying-god-in-life-and-death/
+list index out of range
+
+http://odb.org/2012/05/13/a-woman-of-influence/
+list index out of range
+
+http://odb.org/2014/04/10/left-side-of-the-road/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/06/26/rest-into-it/
+list index out of range
+
+http://odb.org/2010/12/10/tough-and-tender/
+list index out of range
+
+https://odb.org/2017/04/02/behind-the-scenes-5/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2015/05/17/power-in-praise/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/03/11/thankful-in-all-things/
+list index out of range
+
+http://odb.org/2012/06/16/wonderfully-made-2/
+list index out of range
+
+http://odb.org/2016/04/10/sweet-reminders/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2006/06/08/michaels-baptism/
+list index out of range
+
+http://odb.org/2013/10/14/seeds-soils/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2015/11/24/beyond-disappointment/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/11/22/the-joy-of-a-generous-god/
+list index out of range
+
+http://odb.org/2015/03/04/house-hunting-ants/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/11/09/the-rock/
+list index out of range
+
+http://odb.org/2011/04/22/sin-hurts/
+list index out of range
+
+http://odb.org/2013/03/09/praying-friends/
+list index out of range
+
+http://odb.org/2013/02/25/always-accepted/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2018/09/29/gleaning-the-fields/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/10/11/gorgeous-inside/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/05/29/peace-be-still/
+list index out of range
+
+https://odb.org/2018/07/11/strangers-welcoming-strangers/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/02/02/new-eyes/
+list index out of range
+
+http://odb.org/2014/07/13/no-grace/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/10/08/god-provides-but-how/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/03/14/the-catcher/
+list index out of range
+
+http://odb.org/2012/03/20/long-awaited-reunion/
+list index out of range
+
+http://odb.org/2010/12/18/jesus-at-the-center/
+list index out of range
+
+http://odb.org/2016/01/27/what-is-it/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/07/30/garbage-island/
+list index out of range
+
+http://odb.org/2011/07/31/free-4-all/
+list index out of range
+
+http://odb.org/2013/02/05/the-lesson/
+list index out of range
+
+http://odb.org/2016/03/30/surprised-by-grace/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/09/17/seeing-god-in-familiar-places/
+list index out of range
+
+http://odb.org/2012/12/21/sweet-words/
+list index out of range
+
+https://odb.org/2019/02/19/shelve-them-and-move-on/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/08/18/always-an-upgrade/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/12/05/preparation-and-expectation/
+list index out of range
+
+http://odb.org/2011/09/15/heavy-lifting/
+list index out of range
+
+http://odb.org/2013/06/06/leading-from-the-front/
+list index out of range
+
+http://odb.org/2012/09/21/much-trouble/
+list index out of range
+
+http://odb.org/2014/11/30/for-sale-as-is/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/07/04/controversy-of-the-cross/
+list index out of range
+
+http://odb.org/2011/10/20/my-fingernails-or-his-hand/
+list index out of range
+
+http://odb.org/2010/08/25/sunshine-chaser/
+list index out of range
+
+http://odb.org/2010/01/09/fear-of-the-unknown/
+list index out of range
+
+http://odb.org/2011/05/30/let-honor-meet-honor/
+list index out of range
+
+http://odb.org/2013/03/21/make-it-count/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/11/11/disaster-diaries/
+list index out of range
+
+https://odb.org/2019/02/01/deeper-love/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/02/29/how-to-get-a-new-heart/
+list index out of range
+
+http://odb.org/2014/07/27/divine-perspective/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2015/06/26/hidden-mysteries/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/01/11/a-perfect-fit/
+list index out of range
+
+http://odb.org/2012/12/22/the-heavens-declare/
+list index out of range
+
+http://odb.org/2016/08/20/giants-in-the-land/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/10/31/completely-clean/
+list index out of range
+
+http://odb.org/2014/01/16/the-little-tent/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/04/24/cutting-a-trail/
+list index out of range
+
+http://odb.org/2010/03/12/united-goal/
+list index out of range
+
+http://odb.org/2013/11/25/spiritual-plagiarism/
+list index out of range
+
+http://odb.org/2013/01/05/time-out/
+list index out of range
+
+http://odb.org/2013/11/28/how-to-enjoy-things/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/04/27/whispering-gallery/
+list index out of range
+
+http://odb.org/2012/04/06/no-greater-love-6/
+list index out of range
+
+http://odb.org/2005/09/17/magic-or-miracle/
+list index out of range
+
+http://odb.org/2004/06/21/apatheists/
+list index out of range
+
+http://odb.org/2013/11/22/overshadowed/
+list index out of range
+
+http://odb.org/2014/05/03/he-changed-my-life/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/06/24/winners-all/
+list index out of range
+
+http://odb.org/2012/06/28/in-praise-of-sovereignty/
+list index out of range
+
+http://odb.org/2013/08/16/contained-but-not-extinguished/
+list index out of range
+
+https://odb.org/2018/01/26/holy-holy-holy-3/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2014/10/29/shadowed/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/09/07/godaware/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2015/12/15/the-importance-of-how/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/10/06/a-dangerous-challenge/
+list index out of range
+
+http://odb.org/2012/03/11/beauty-in-the-church/
+list index out of range
+
+http://odb.org/2011/04/16/of-pain-and-gain/
+list index out of range
+
+http://odb.org/2010/01/28/quiet-time-with-god/
+list index out of range
+
+http://odb.org/2013/06/10/a-letter-from-c-s-lewis/
+list index out of range
+
+https://odb.org/2017/03/25/not-the-one/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2020/03/22/the-picture-of-despair/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2016/12/27/the-power-of-simple-words/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/11/10/in-the-face-of-fear/
+list index out of range
+
+http://odb.org/2017/02/10/leaning-on-jesus/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2006/04/21/not-enough/
+list index out of range
+
+http://odb.org/2012/10/09/still-in-gods-hands/
+list index out of range
+
+http://odb.org/2011/07/28/for-the-god-i-love/
+list index out of range
+
+http://odb.org/2012/12/27/a-winning-strategy/
+list index out of range
+
+http://odb.org/2013/07/01/bouncing-back/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/11/21/the-deaf-hear/
+list index out of range
+
+http://odb.org/2013/10/18/the-end/
+list index out of range
+
+http://odb.org/2013/05/02/a-plea-for-prayer/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/11/19/traveling-companion/
+list index out of range
+
+http://odb.org/2011/06/09/stolen-thoughts/
+list index out of range
+
+http://odb.org/2012/04/20/called-by-a-new-name/
+list index out of range
+
+http://odb.org/2010/08/05/the-devil-made-me-do-it/
+list index out of range
+
+http://odb.org/2013/04/07/i-l-o-v-e/
+list index out of range
+
+http://odb.org/2011/11/28/just-do-what’s-right/
+list index out of range
+
+http://odb.org/2010/02/16/detecting-toxins/
+list index out of range
+
+http://odb.org/2012/07/29/not-a-myth/
+list index out of range
+
+http://odb.org/2013/06/30/late-arrivals-welcome/
+list index out of range
+
+http://odb.org/2013/08/27/surrounded-by-mercy/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/05/27/a-sense-of-dread/
+list index out of range
+
+http://odb.org/2011/02/21/resolution/
+list index out of range
+
+http://odb.org/2013/12/06/more-than-enough-2/
+list index out of range
+
+http://odb.org/2013/06/20/rock-of-refuge/
+list index out of range
+
+http://odb.org/2010/04/14/unseen-workers/
+list index out of range
+
+http://odb.org/2011/05/11/the-benefit-of-the-doubt/
+list index out of range
+
+https://odb.org/2018/01/24/god-of-life/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/04/25/resurrection-and-life/
+list index out of range
+
+http://odb.org/2005/12/08/use-your-weapons/
+list index out of range
+
+http://odb.org/2013/03/26/our-fathers-world/
+list index out of range
+
+http://odb.org/2013/01/11/eyewitness-account/
+list index out of range
+
+http://odb.org/2010/11/08/aim-high/
+list index out of range
+
+http://odb.org/2013/12/09/the-good-and-the-bad-3/
+list index out of range
+
+http://odb.org/2014/09/09/a-possums-pose/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2016/02/02/leave-a-legacy/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/12/08/serious-fear/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/02/27/not-my-kind/
+list index out of range
+
+http://odb.org/2013/11/17/hero-over-sin/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/11/01/forsaken/
+list index out of range
+
+http://odb.org/2013/07/12/thats-jesus/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/04/14/well-done-david-schumm/
+list index out of range
+
+http://odb.org/2013/10/25/loving-and-knowing/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/06/14/the-lamb-who-is-the-lion/
+list index out of range
+
+http://odb.org/2013/10/02/married-to-royalty/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2014/03/09/dressed-to-deceive/
+list index out of range
+
+http://odb.org/2011/01/08/a-clear-conscience-2/
+list index out of range
+
+http://odb.org/2013/06/03/wise-words/
+list index out of range
+
+http://odb.org/2012/10/02/be-content/
+list index out of range
+
+https://odb.org/2018/07/02/a-welcome-witness/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/03/24/worst-possible-scenario/
+list index out of range
+
+http://odb.org/2016/09/19/worth-the-calories/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/09/16/gods-will/
+list index out of range
+
+http://odb.org/2012/09/17/correct-them/
+list index out of range
+
+http://odb.org/2010/05/21/i-me-mine/
+list index out of range
+
+http://odb.org/2011/05/27/the-pilot’s-rutter/
+list index out of range
+
+http://odb.org/2014/09/24/the-language-of-whistling/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/06/05/just-this-once/
+list index out of range
+
+http://odb.org/2012/12/14/i-invented-it/
+list index out of range
+
+http://odb.org/2010/08/15/mightier-than-all/
+list index out of range
+
+http://odb.org/2011/10/27/zero-tolerance/
+list index out of range
+
+http://odb.org/2013/03/25/too-heavy/
+list index out of range
+
+http://odb.org/2013/03/24/let-it-go/
+list index out of range
+
+http://odb.org/2012/06/17/our-father-in-heaven/
+list index out of range
+
+http://odb.org/2012/02/13/wings-like-a-dove/
+list index out of range
+
+http://odb.org/2013/10/21/o-glorious-day/
+list index out of range
+
+http://odb.org/2009/09/12/lateral-violence/
+list index out of range
+
+http://odb.org/2013/11/16/to-whom-it-is-due/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/09/11/imitate-the-good/
+list index out of range
+
+https://odb.org/2017/05/08/the-burden-of-waiting/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2018/04/10/only-by-prayer/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/03/13/living-testament/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/12/30/life-is-like-riding-a-bicycle/
+list index out of range
+
+http://odb.org/2013/08/20/image-conscious/
+list index out of range
+
+http://odb.org/2012/01/21/purge-out-the-old/
+list index out of range
+
+http://odb.org/2014/04/22/acts-of-kindness/
+list index out of range
+
+http://odb.org/2011/02/25/perfect-peace-and-rest/
+list index out of range
+
+http://odb.org/2010/02/06/charlies-walk-on-the-moon/
+list index out of range
+
+http://odb.org/2013/04/19/strengthened-through-suffering/
+list index out of range
+
+http://odb.org/2010/11/12/more-than-loaves/
+list index out of range
+
+http://odb.org/2012/03/01/can-i-trust-you/
+list index out of range
+
+http://odb.org/2013/08/12/the-blessed-hope/
+list index out of range
+
+http://odb.org/2014/05/31/as-white-as-snow/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2007/11/29/shakespeares-translation/
+list index out of range
+
+http://odb.org/2013/08/03/corine/
+list index out of range
+
+http://odb.org/2007/08/20/consumer-mentality/
+list index out of range
+
+http://odb.org/2013/03/05/forced-leisure/
+list index out of range
+
+http://odb.org/2011/01/16/a-child’s-potential/
+list index out of range
+
+http://odb.org/2013/06/15/to-god-be-the-glory/
+list index out of range
+
+http://odb.org/2012/09/02/two-way-communication/
+list index out of range
+
+http://odb.org/2013/06/05/more-than-information/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/03/01/win-or-lose/
+list index out of range
+
+http://odb.org/2010/11/06/do-it-now/
+list index out of range
+
+http://odb.org/2016/09/01/because-you-prayed/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/04/26/the-best-season-yet/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2015/07/10/help-for-a-heavy-load/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/10/04/immeasurably-more/
+list index out of range
+
+http://odb.org/2013/05/01/all-that-is-precious/
+list index out of range
+
+http://odb.org/2013/01/30/unstoppable/
+list index out of range
+
+http://odb.org/2012/08/17/they-are-watching/
+list index out of range
+
+http://odb.org/2015/09/01/age-is-not-a-factor/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2005/02/05/the-blackness-of-midnight/
+list index out of range
+
+http://odb.org/2012/01/12/attracting-the-lost/
+list index out of range
+
+http://odb.org/2013/11/03/be-still-2/
+list index out of range
+
+http://odb.org/2014/08/25/more-than-waiting/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/07/13/paul-the-aged/
+list index out of range
+
+https://odb.org/2019/04/24/serving-the-smallest/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/12/02/times-of-refreshing/
+list index out of range
+
+http://odb.org/1999/10/19/dont-go-there/
+list index out of range
+
+http://odb.org/2013/03/29/shout-of-triumph/
+list index out of range
+
+http://odb.org/2013/09/26/the-path-of-wisdom-2/
+list index out of range
+
+http://odb.org/2013/10/31/eyes-of-love/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/04/18/beautiful-scars/
+list index out of range
+
+http://odb.org/2010/05/11/dilbert/
+list index out of range
+
+http://odb.org/2010/02/14/showing-real-love/
+list index out of range
+
+https://odb.org/2017/09/06/before-the-lord/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/10/17/barrier-free-love/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/05/27/garlic-and-sapphires/
+list index out of range
+
+http://odb.org/2012/04/30/my-way-2/
+list index out of range
+
+http://odb.org/2014/04/11/isnt-god-powerful/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2015/11/29/the-low-point/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/02/12/the-best-life/
+list index out of range
+
+http://odb.org/2009/12/26/the-hope-that-banishes-hopelessness/
+list index out of range
+
+http://odb.org/2013/12/12/costume-or-uniform/
+list index out of range
+
+http://odb.org/2012/09/06/tuning-in/
+list index out of range
+
+http://odb.org/2013/07/02/a-flying-miracle/
+list index out of range
+
+http://odb.org/2012/06/07/uncontrollable-unexpected/
+list index out of range
+
+http://odb.org/2012/04/15/stop-and-see/
+list index out of range
+
+http://odb.org/2015/02/12/the-well-watered-life/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/04/23/longing-for-spring/
+list index out of range
+
+http://odb.org/2012/02/15/more-more-more/
+list index out of range
+
+http://odb.org/2013/11/12/embarrassing-moments/
+list index out of range
+
+http://odb.org/2005/02/10/living-in-retirement/
+list index out of range
+
+http://odb.org/2011/11/30/actions-and-results/
+list index out of range
+
+http://odb.org/2014/12/31/standing-on-the-edge/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2016/03/18/when-to-walk-away/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/02/12/volcanic-activity/
+list index out of range
+
+http://odb.org/2013/05/08/golden-eagle/
+list index out of range
+
+http://odb.org/2013/08/22/thumbs-up/
+list index out of range
+
+http://odb.org/2012/05/04/the-wright-stuff/
+list index out of range
+
+https://odb.org/2017/10/09/from-worms-to-war/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/10/12/a-working-church/
+list index out of range
+
+http://odb.org/2012/11/26/love-finds-a-way/
+list index out of range
+
+http://odb.org/2011/07/14/seeing-the-person-inside/
+list index out of range
+
+http://odb.org/2010/12/20/significant-surrender/
+list index out of range
+
+http://odb.org/2013/11/29/first-impressions-2/
+list index out of range
+
+http://odb.org/2013/12/24/one-silent-night/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/08/22/theory-of-everything/
+list index out of range
+
+http://odb.org/2012/09/25/for-his-glory/
+list index out of range
+
+http://odb.org/2013/07/09/space-music/
+list index out of range
+
+http://odb.org/2014/04/28/probing-questions/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/12/25/christingle/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/11/20/misapplied-learning/
+list index out of range
+
+http://odb.org/2012/02/21/slacker/
+list index out of range
+
+http://odb.org/2010/04/09/the-fear-of-falling-2/
+list index out of range
+
+http://odb.org/2011/05/26/trust-and-sadness/
+list index out of range
+
+http://odb.org/2013/12/26/be-present/
+list index out of range
+
+http://odb.org/2004/11/27/pointing-fingers/
+list index out of range
+
+http://odb.org/2016/12/22/the-best-gift-ever/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/10/15/dreams-of-childhood/
+list index out of range
+
+http://odb.org/2011/12/13/free-pizza/
+list index out of range
+
+http://odb.org/2012/03/05/the-dalton-gang/
+list index out of range
+
+http://odb.org/2013/09/18/god-had-other-plans/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/11/11/faithful-unto-death/
+list index out of range
+
+https://odb.org/2018/10/24/impossible-to-hold/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2006/12/07/waiting-for-god/
+list index out of range
+
+http://odb.org/2011/09/30/1000th-birthday/
+list index out of range
+
+http://odb.org/2014/09/15/the-blame-game-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/04/12/awake-with-his-word/
+list index out of range
+
+http://odb.org/2010/06/25/the-right-people/
+list index out of range
+
+http://odb.org/2013/04/23/now-i-see/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/10/13/facing-our-past/
+list index out of range
+
+http://odb.org/2013/07/07/welcome-to-all/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/06/01/winning-and-losing/
+list index out of range
+
+http://odb.org/2011/07/07/fusion-man/
+list index out of range
+
+http://odb.org/2010/05/30/what-does-it-take/
+list index out of range
+
+http://odb.org/2011/06/11/a-royal-wedding/
+list index out of range
+
+http://odb.org/2010/06/28/toxic-living/
+list index out of range
+
+http://odb.org/2012/05/06/a-fathers-invitation/
+list index out of range
+
+http://odb.org/2014/05/07/my-kind-of-people/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/05/08/safety-zone/
+list index out of range
+
+http://odb.org/2010/04/02/like-a-lamb/
+list index out of range
+
+http://odb.org/2010/09/12/just-another-sunday/
+list index out of range
+
+http://odb.org/2011/09/28/not-at-this-time/
+list index out of range
+
+http://odb.org/2017/01/30/rebuilding/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/05/16/im-sorry-man/
+list index out of range
+
+http://odb.org/2013/09/08/light-up-the-night/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/10/03/celebrating-together/
+list index out of range
+
+http://odb.org/2011/09/04/ant-world/
+list index out of range
+
+http://odb.org/2007/06/27/integrity-101/
+list index out of range
+
+http://odb.org/2013/04/28/terrifying-moments/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2016/06/07/tell-it/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/08/26/whats-at-stake/
+list index out of range
+
+http://odb.org/2011/03/23/gracias/
+list index out of range
+
+http://odb.org/2012/12/13/the-circle-of-the-wise/
+list index out of range
+
+http://odb.org/2012/07/11/sweet-slumber/
+list index out of range
+
+http://odb.org/2015/01/20/when-god-is-quiet/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/07/20/bedlam/
+list index out of range
+
+http://odb.org/2012/01/07/collision-course/
+list index out of range
+
+http://odb.org/2017/01/16/the-valley-of-blessing/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2007/07/03/irreverence/
+list index out of range
+
+http://odb.org/2013/01/16/upside-down-2/
+list index out of range
+
+http://odb.org/2014/11/21/dealing-with-distractions/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2016/05/15/always-in-his-care/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/05/25/navigating-the-storm/
+list index out of range
+
+http://odb.org/2011/09/02/the-trouble-with-heroes/
+list index out of range
+
+https://odb.org/2017/12/10/restored-failures/
+list index out of range
+
+http://odb.org/2013/12/31/in-his-grip/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/11/24/what-time-is-it-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/12/28/choices-and-consequences/
+list index out of range
+
+http://odb.org/2009/06/05/adopted/
+list index out of range
+
+http://odb.org/2011/04/26/hard-to-imagine/
+list index out of range
+
+https://odb.org/2017/08/27/earnestly-sought/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2018/05/31/interrupted-fellowship/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/07/20/blunders-to-wonders/
+list index out of range
+
+http://odb.org/2013/07/04/eternal-eyesight/
+list index out of range
+
+http://odb.org/2013/07/10/stand-firm/
+list index out of range
+
+http://odb.org/2013/03/07/on-the-fringe/
+list index out of range
+
+http://odb.org/2011/11/06/mighty-waters/
+list index out of range
+
+http://odb.org/2013/05/30/the-tragic-flaw/
+list index out of range
+
+http://odb.org/2014/11/28/amani/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/09/23/confidence-in-troubled-times/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/02/18/the-power-of-demonstration-2/
+list index out of range
+
+https://odb.org/2018/06/09/the-perfect-father/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/12/21/light-and-shadow/
+list index out of range
+
+http://odb.org/2014/09/08/sow-what/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/10/28/emergency-kit/
+list index out of range
+
+https://odb.org/2018/05/23/the-babushka-lady/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/09/26/a-firm-foundation/
+list index out of range
+
+http://odb.org/2013/07/28/the-wisdom-of-crowds/
+list index out of range
+
+http://odb.org/2014/03/20/misplaced-love/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2020/12/22/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/05/15/no-loose-laces/
+list index out of range
+
+http://odb.org/2011/03/29/talk-low-talk-slow/
+list index out of range
+
+https://odb.org/2017/03/27/image-management/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/10/24/stuck-in-the-mire/
+list index out of range
+
+http://odb.org/2011/12/22/hidden-treasure/
+list index out of range
+
+http://odb.org/2012/04/25/everything-is-beautiful/
+list index out of range
+
+http://odb.org/2014/02/19/the-eleventh-hour/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/06/16/strength-of-a-man/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/02/07/stranded/
+list index out of range
+
+https://odb.org/2017/09/14/we-have-a-king/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/04/16/a-heart-of-gratitude/
+list index out of range
+
+http://odb.org/2013/05/27/true-sacrifice-2/
+list index out of range
+
+http://odb.org/2011/05/02/two-rules-to-live-by/
+list index out of range
+
+http://odb.org/2012/01/15/each-life-a-gift/
+list index out of range
+
+http://odb.org/2012/11/23/the-challenge-of-riches/
+list index out of range
+
+http://odb.org/2013/07/05/battling-ego/
+list index out of range
+
+https://odb.org/2018/10/25/where-is-peace/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/01/11/why-not-now/
+list index out of range
+
+http://odb.org/2013/11/27/place-of-water/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/08/08/reflections-on-windows/
+list index out of range
+
+http://odb.org/2013/10/30/the-last-chapter/
+list index out of range
+
+http://odb.org/2012/08/29/until-you-are-full/
+list index out of range
+
+http://odb.org/2012/08/05/totally-clean/
+list index out of range
+
+http://odb.org/2012/01/19/magic-eye/
+list index out of range
+
+http://odb.org/2011/11/23/the-world-of-more/
+list index out of range
+
+http://odb.org/2013/10/26/healthy-ingredients/
+list index out of range
+
+http://odb.org/2013/09/12/beneficial-power/
+list index out of range
+
+http://odb.org/2013/03/16/broken-bones/
+list index out of range
+
+http://odb.org/2010/04/01/to-speak-or-not-to-speak/
+list index out of range
+
+http://odb.org/2011/02/11/will-i-have-to-tell/
+list index out of range
+
+http://odb.org/2016/06/14/god-of-the-ordinary/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2018/09/03/the-way-home/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/10/16/no-more-no-less/
+list index out of range
+
+http://odb.org/2013/02/11/numbered-days/
+list index out of range
+
+http://odb.org/2013/06/22/hanging-on-nothing/
+list index out of range
+
+http://odb.org/2013/09/10/the-power-of-affirmation/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/08/20/an-obstacle-inventory/
+list index out of range
+
+http://odb.org/2011/02/22/greater-compassion/
+list index out of range
+
+http://odb.org/2011/06/03/two-tales-of-one-city/
+list index out of range
+
+http://odb.org/2013/09/25/insignificant/
+list index out of range
+
+http://odb.org/2010/11/18/spiritual-junk-food/
+list index out of range
+
+http://odb.org/2012/08/14/it-will-be-worth-it-all/
+list index out of range
+
+http://odb.org/2011/04/24/too-good-to-be-true/
+list index out of range
+
+http://odb.org/2013/09/30/drink-lots-of-water/
+list index out of range
+
+http://odb.org/2011/08/05/a-hard-goodbye/
+list index out of range
+
+http://odb.org/2011/02/20/who’s-the-audience/
+list index out of range
+
+http://odb.org/2017/01/05/listening-to-god/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/01/23/wholesome-words-2/
+list index out of range
+
+http://odb.org/2015/05/22/wisdom-seekers/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2009/10/19/retirement-time/
+list index out of range
+
+http://odb.org/2005/06/03/ill-pay-you-later/
+list index out of range
+
+http://odb.org/2014/12/04/called-by-name/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/10/13/too-busy-to-know-god/
+list index out of range
+
+http://odb.org/2004/07/12/overcoming-greed/
+list index out of range
+
+http://odb.org/2015/04/21/facing-the-impossible/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2015/06/04/my-father-is-with-me/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/10/19/investing-in-the-future/
+list index out of range
+
+https://odb.org/2020/05/14/under-construction/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/04/04/hawks-and-lions/
+list index out of range
+
+http://odb.org/2013/03/28/and-it-was-night/
+list index out of range
+
+http://odb.org/2010/08/13/freedom/
+list index out of range
+
+http://odb.org/2012/05/09/building-a-life-that-matters/
+list index out of range
+
+https://odb.org/2017/08/09/one-for-all/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/01/30/when-the-wind-blows/
+list index out of range
+
+http://odb.org/2014/04/23/shout-hallelujah/
+list index out of range
+
+https://odb.org/2018/08/10/a-hopeful-lament/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/07/07/beware-of-what-you-want/
+list index out of range
+
+http://odb.org/2012/03/06/dingo-the-dog/
+list index out of range
+
+http://odb.org/2012/12/05/barriers-and-blessings/
+list index out of range
+
+http://odb.org/2012/10/07/still-bearing-fruit/
+list index out of range
+
+http://odb.org/2013/11/15/our-fearless-champion/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/11/29/a-life-of-honor/
+list index out of range
+
+http://odb.org/2013/09/13/a-father-to-follow/
+list index out of range
+
+http://odb.org/2013/05/09/dont-worry-dad/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2018/01/15/pursuing-unity/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2016/02/28/growing-up/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2009/03/08/the-time-will-come/
+list index out of range
+
+http://odb.org/2011/05/17/alternatives-to-revenge/
+list index out of range
+
+http://odb.org/2014/11/01/mosaic/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2018/10/17/the-prayer-and-the-chain-saw/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/09/01/the-person-of-the-bible/
+list index out of range
+
+http://odb.org/2013/09/14/unfailing-mercy/
+list index out of range
+
+http://odb.org/2014/05/17/surfacing/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/04/18/the-purpose-of-god’s-goodness/
+list index out of range
+
+http://odb.org/2013/03/10/extravagant-gifts/
+list index out of range
+
+http://odb.org/2011/12/09/what-shall-i-give-you/
+list index out of range
+
+http://odb.org/2010/09/13/ike’s-anger-problem/
+list index out of range
+
+http://odb.org/2011/11/24/thanksgiving-pardon/
+list index out of range
+
+http://odb.org/2013/10/28/wait-on-the-lord-2/
+list index out of range
+
+http://odb.org/2012/10/19/unused-gears/
+list index out of range
+
+http://odb.org/2010/01/23/giving-up/
+list index out of range
+
+https://odb.org/2017/11/12/in-keeping/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2014/04/13/determination/
+list index out of range
+
+http://odb.org/2013/07/26/taking-root/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/12/14/a-new-force/
+list index out of range
+
+http://odb.org/2012/09/16/from-duty-to-delight/
+list index out of range
+
+http://odb.org/2013/06/18/every-word-matters/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/05/18/triumphing-over-giants/
+list index out of range
+
+http://odb.org/2012/07/01/the-offering-plate/
+list index out of range
+
+http://odb.org/2008/11/10/gossip-free-zone/
+list index out of range
+
+http://odb.org/2010/01/03/widening-your-perspective/
+list index out of range
+
+http://odb.org/2011/12/20/always-on-duty/
+list index out of range
+
+http://odb.org/2012/03/09/acts-of-gratitude/
+list index out of range
+
+http://odb.org/2012/12/25/a-message-from-god/
+list index out of range
+
+http://odb.org/2011/01/30/looking-and-learning/
+list index out of range
+
+http://odb.org/2011/03/20/the-stones/
+list index out of range
+
+http://odb.org/2012/12/24/moment-of-grace/
+list index out of range
+
+http://odb.org/2010/08/31/rescued-2/
+list index out of range
+
+http://odb.org/2015/05/31/the-blame-game-3/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/07/27/the-rules-of-disengagement/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/10/01/hubble-zoos-and-singing-children/
+list index out of range
+
+http://odb.org/2013/08/09/belonging/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/02/01/heart-attitude/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2018/10/30/agreeing-to-disagree/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/09/30/initial-point/
+list index out of range
+
+https://odb.org/2017/04/27/learning-the-language/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/03/15/a-search-for-the-top-ten/
+list index out of range
+
+http://odb.org/2011/05/03/never-alone-4/
+list index out of range
+
+http://odb.org/2010/11/27/ernie’s-farewell/
+list index out of range
+
+http://odb.org/2013/09/28/who-am-i-2/
+list index out of range
+
+http://odb.org/2016/04/07/his-plans-or-ours/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/11/02/whos-telling-the-truth-2/
+list index out of range
+
+http://odb.org/2011/09/05/the-goodness-of-work/
+list index out of range
+
+http://odb.org/2013/05/07/we-can-trust-him/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2014/04/20/easter-every-day/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2017/08/16/not-fear-but-faith/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/07/04/true-freedom-2/
+list index out of range
+
+https://odb.org/2018/07/05/gods-great-creation/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/12/02/we-need-hope/
+list index out of range
+
+https://odb.org/2018/08/03/to-my-dear-friend/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/07/18/sticks-and-stones/
+list index out of range
+
+http://odb.org/2013/03/31/knee-deep-in-daffodils/
+list index out of range
+
+http://odb.org/2015/08/17/baking-with-jess/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/06/30/rescued/
+list index out of range
+
+http://odb.org/2013/01/21/open-arms/
+list index out of range
+
+http://odb.org/2014/02/17/on-listening/
+list index out of range
+
+http://odb.org/2013/10/07/public-praise/
+list index out of range
+
+http://odb.org/2013/05/22/a-missed-lunch/
+list index out of range
+
+http://odb.org/2010/03/20/marriage-gods-way/
+list index out of range
+
+http://odb.org/2013/08/17/slack-tide/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/07/17/whats-the-trouble/
+list index out of range
+
+http://odb.org/2013/04/12/honor-system/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2018/09/05/bridges-and-walls/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2014/02/01/heard-by-god/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/05/13/the-mighty-toe/
+list index out of range
+
+http://odb.org/2005/02/04/the-obedience-factor/
+list index out of range
+
+http://odb.org/2015/06/08/on-a-hill-far-away/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/08/26/off-limits/
+list index out of range
+
+http://odb.org/2012/03/12/the-greatest-2/
+list index out of range
+
+https://odb.org/2017/03/18/somethings-wrong/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2015/01/06/mistakes-made-beautiful/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/07/29/whats-love/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/04/28/haters-of-god/
+list index out of range
+
+http://odb.org/2013/12/17/love-and-support/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/05/25/the-real-prize/
+list index out of range
+
+http://odb.org/2010/08/17/true-prosperity-2/
+list index out of range
+
+http://odb.org/2014/01/25/an-ordinary-day/
+list index out of range
+
+http://odb.org/2014/11/12/the-final-picture/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2018/10/12/safe-in-his-arms-3/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2014/12/17/a-work-in-progress/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2018/10/20/always-accepted-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/03/04/anticipation/
+list index out of range
+
+http://odb.org/2010/04/03/a-new-normal/
+list index out of range
+
+http://odb.org/2013/01/31/rescued-4/
+list index out of range
+
+http://odb.org/2012/12/19/be-specific/
+list index out of range
+
+http://odb.org/2016/08/21/let-us/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/12/16/the-great-miracle/
+list index out of range
+
+http://odb.org/2010/08/30/common-language/
+list index out of range
+
+http://odb.org/2011/04/08/know-your-limits-2/
+list index out of range
+
+http://odb.org/2010/03/15/last-line-of-defense/
+list index out of range
+
+http://odb.org/2013/10/22/the-campaign/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2016/07/13/something-i-should-know/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2015/10/21/pride-at-the-core/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/05/28/displaying-gods-glory/
+list index out of range
+
+http://odb.org/2011/03/26/columbus’-eclipse/
+list index out of range
+
+http://odb.org/2013/09/01/a-slower-pace/
+list index out of range
+
+https://odb.org/2018/04/05/what-we-want-to-hear/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/08/23/the-gift-of-light/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2017/03/09/mistakes-were-made/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/01/03/getting-along-2/
+list index out of range
+
+http://odb.org/1996/09/08/for-future-generations/
+list index out of range
+
+http://odb.org/2011/08/13/master-craftsman/
+list index out of range
+
+http://odb.org/2013/12/11/hope-for-skeptics/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/01/05/facing-the-future/
+list index out of range
+
+http://odb.org/2013/02/22/crowned-with-glory/
+list index out of range
+
+http://odb.org/2012/12/11/emotional-betrayals/
+list index out of range
+
+http://odb.org/2013/06/17/no-risk/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/10/16/the-wooden-rule/
+list index out of range
+
+http://odb.org/2013/08/01/snapping-snarling-thoughts/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/03/08/jesus-team/
+list index out of range
+
+http://odb.org/2011/02/14/friending/
+list index out of range
+
+http://odb.org/2013/03/02/a-good-man-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/07/13/ant-safari/
+list index out of range
+
+http://odb.org/2011/10/10/the-joy-of-remembering/
+list index out of range
+
+https://odb.org/2017/09/04/stepping-into-strength/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2017/08/20/the-turn/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/01/02/t-ball-faith/
+list index out of range
+
+http://odb.org/2013/09/24/a-friend-in-need/
+list index out of range
+
+http://odb.org/2013/02/20/rerouting-rerouting/
+list index out of range
+
+http://odb.org/2010/05/01/the-search-for-satisfaction/
+list index out of range
+
+http://odb.org/2012/10/13/corn-palace/
+list index out of range
+
+http://odb.org/2012/07/26/changing-enemies-into-friends/
+list index out of range
+
+http://odb.org/2013/12/07/christmas-lights/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/03/18/keep-me-from-wrath/
+list index out of range
+
+http://odb.org/2011/01/09/the-eye-that-never-sleeps/
+list index out of range
+
+http://odb.org/2012/05/28/the-gathering/
+list index out of range
+
+http://odb.org/2010/06/21/an-imaginary-threat/
+list index out of range
+
+http://odb.org/2015/12/19/the-seventh-stanza/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/01/10/spiritual-sight/
+list index out of range
+
+http://odb.org/2013/01/18/youre-necessary/
+list index out of range
+
+http://odb.org/2015/03/26/the-definite-choice/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/01/25/no-more-struggles/
+list index out of range
+
+http://odb.org/2012/11/28/bookmobile/
+list index out of range
+
+https://odb.org/2017/08/06/reflecting-gods-love/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2017/06/09/a-reason-to-sing/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/11/22/unexpressed-gratitude/
+list index out of range
+
+http://odb.org/2010/07/05/retreating-forward/
+list index out of range
+
+http://odb.org/2010/08/04/out-of-orbit/
+list index out of range
+
+http://odb.org/2013/11/13/a-piece-of-the-puzzle/
+list index out of range
+
+http://odb.org/2012/12/04/open-handed-help/
+list index out of range
+
+http://odb.org/2010/05/16/the-ascension-3/
+list index out of range
+
+http://odb.org/2010/04/18/a-wrong-reading/
+list index out of range
+
+http://odb.org/2010/11/19/national-pride/
+list index out of range
+
+http://odb.org/2012/06/08/getting-to-heaven/
+list index out of range
+
+http://odb.org/2012/10/18/what-has-god-done-for-me-lately/
+list index out of range
+
+https://odb.org/2019/01/13/plight-of-the-crawdads/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/12/31/the-power-of-terminal-thinking/
+list index out of range
+
+http://odb.org/2013/09/05/almost-content/
+Navigation Timeout Exceeded: 8000 ms exceeded.
+
+https://odb.org/2021/03/05/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+Navigation Timeout Exceeded: 8000 ms exceeded.
+
+http://odb.org/2012/01/03/the-pursuit/
+list index out of range
+
+http://odb.org/2011/03/15/a-matter-of-perspective/
+list index out of range
+
+http://odb.org/2012/01/26/the-land-of-and/
+list index out of range
+
+http://odb.org/2012/09/05/the-hidden-door/
+list index out of range
+
+https://odb.org/2019/06/11/god-of-all-people/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+Navigation Timeout Exceeded: 8000 ms exceeded.
+
+http://odb.org/2012/05/17/a-place-for-you/
+list index out of range
+
+http://odb.org/2011/12/12/a-growing-belligerence/
+list index out of range
+
+http://odb.org/2013/04/15/money-talk/
+list index out of range
+
+http://odb.org/2012/09/07/consider-the-clouds/
+list index out of range
+
+http://odb.org/2013/04/18/from-bleak-to-beautiful/
+list index out of range
+
+http://odb.org/2015/09/16/feeling-forsaken/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/12/19/the-son-is-given/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/09/30/sweet-praise/
+list index out of range
+
+http://odb.org/2010/06/19/the-brevity-of-life-2/
+list index out of range
+
+https://odb.org/2018/06/18/blessing-in-the-mess/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/12/28/wind-and-fire/
+list index out of range
+
+https://odb.org/2018/03/29/basin-of-love/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/04/01/a-new-view-of-change/
+list index out of range
+
+https://odb.org/2018/07/29/hope-in-grief/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/01/26/like-a-hypocrite/
+list index out of range
+
+http://odb.org/2014/02/24/empty-fort-strategy/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2017/05/26/navigating-rough-waters/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/02/17/side-by-side/
+list index out of range
+
+http://odb.org/2014/01/02/no-appetite/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/09/28/day-unknown/
+list index out of range
+
+http://odb.org/2013/06/28/miserable-success/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/05/28/are-you-listening-3/
+list index out of range
+
+http://odb.org/2012/09/24/fighting-off-jealousy/
+list index out of range
+
+http://odb.org/2013/07/11/the-winding-road/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/04/22/undiscovered-country/
+list index out of range
+
+http://odb.org/2011/05/18/we-shall-be-changed/
+list index out of range
+
+http://odb.org/2008/07/28/desperate-for-answers/
+list index out of range
+
+http://odb.org/2007/07/10/miracle-or-magic/
+list index out of range
+
+http://odb.org/2012/01/06/longing-for-home/
+list index out of range
+
+http://odb.org/2014/06/02/the-careful-walk/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2018/02/12/trust-me-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/05/24/coverups-stink/
+list index out of range
+
+http://odb.org/2011/07/12/old-school/
+list index out of range
+
+http://odb.org/2010/08/28/the-slowness-of-wisdom/
+list index out of range
+
+http://odb.org/2012/01/31/the-prince-of-peace/
+list index out of range
+
+http://odb.org/2012/12/30/a-lasting-letter/
+list index out of range
+
+http://odb.org/2013/04/04/supernatural-surveillance/
+list index out of range
+
+http://odb.org/2016/01/21/welcome-home-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2014/01/15/food-in-the-cupboard/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/05/24/heavenly-country/
+list index out of range
+
+http://odb.org/2010/12/19/newgrange/
+list index out of range
+
+http://odb.org/2011/12/04/peace/
+list index out of range
+
+http://odb.org/2015/04/11/when-were-let-down/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/09/22/beyond-the-status-quo/
+list index out of range
+
+http://odb.org/2016/10/06/praising-and-asking/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/06/09/the-way-to-an-easy-life/
+list index out of range
+
+https://odb.org/2017/11/27/knowing-better/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/09/20/a-difficult-place/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/10/09/life-without-bread/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/08/09/like-a-flock/
+list index out of range
+
+http://odb.org/2010/12/27/the-true-owner/
+list index out of range
+
+http://odb.org/2012/03/07/handle-with-care-4/
+list index out of range
+
+http://odb.org/2012/07/21/abide-with-me/
+list index out of range
+
+http://odb.org/2011/06/02/sonrise/
+list index out of range
+
+http://odb.org/2000/06/19/the-value-of-one/
+list index out of range
+
+http://odb.org/2014/08/10/holy-holy-holy-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/1997/06/19/a-poor-substitute/
+list index out of range
+
+https://odb.org/2017/03/20/running-and-rest/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/10/22/give-thanks-3/
+list index out of range
+
+http://odb.org/2013/03/19/first-things-first-3/
+list index out of range
+
+http://odb.org/2013/08/06/the-standoff/
+list index out of range
+
+http://odb.org/2013/10/03/the-gift-of-presence/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/04/03/time-for-a-checkup/
+list index out of range
+
+http://odb.org/2013/01/17/trouble-3/
+list index out of range
+
+http://odb.org/2012/05/21/night-crew/
+list index out of range
+
+http://odb.org/2013/01/22/choose-your-god/
+list index out of range
+
+http://odb.org/2010/01/11/following-our-example/
+list index out of range
+
+http://odb.org/2013/12/30/mixed-emotions/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2018/01/09/stones-of-remembrance-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/11/30/would-or-did/
+list index out of range
+
+http://odb.org/2013/09/02/cupbearer-to-the-king/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/05/06/the-wise-ant/
+list index out of range
+
+http://odb.org/2013/07/22/more-more-more-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/05/07/peace-and-reconciliation/
+list index out of range
+
+http://odb.org/2010/07/20/grace-mercy-and-peace/
+list index out of range
+
+https://odb.org/2017/01/22/gods-face/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/01/23/god-is-at-work-2/
+list index out of range
+
+http://odb.org/2015/02/15/bring-the-boy-to-me/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/08/28/a-way-of-escape/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/05/09/tangible-love/
+list index out of range
+
+http://odb.org/2012/12/23/plowshare-christmas/
+list index out of range
+
+http://odb.org/2012/08/28/serve-well-with-joy/
+list index out of range
+
+http://odb.org/2013/10/16/coade-stone/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/02/06/by-our-deeds/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/09/11/the-mercy-of-god/
+list index out of range
+
+http://odb.org/2011/01/20/fear-and-love-2/
+list index out of range
+
+http://odb.org/2011/02/08/space-scouts/
+list index out of range
+
+http://odb.org/2014/08/08/the-upright-thumb/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2015/09/24/the-upside-of-setbacks/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/02/26/giving-thanks/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/09/23/available-now/
+list index out of range
+
+http://odb.org/2013/11/18/welcome-back/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2017/10/03/conceived-in-crisis/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/08/01/the-unknown-giver/
+list index out of range
+
+http://odb.org/2010/10/27/a-lock-of-hair/
+list index out of range
+
+http://odb.org/2013/06/14/imaginary-friend/
+list index out of range
+
+http://odb.org/2010/10/22/learning-from-the-redwoods/
+list index out of range
+
+http://odb.org/2013/04/13/tell-the-story/
+list index out of range
+
+http://odb.org/2015/04/27/love-and-light/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2009/06/10/land-of-eternal-spring/
+list index out of range
+
+https://odb.org/2020/04/10/standing-firm-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/05/22/fear-not/
+list index out of range
+
+https://odb.org/2017/05/31/the-beauty-of-brokenness/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/08/16/plugged-in/
+list index out of range
+
+http://odb.org/2012/07/02/a-new-day/
+list index out of range
+
+https://odb.org/2020/04/12/grief-overturned/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/12/25/amazing-2/
+list index out of range
+
+http://odb.org/2000/07/15/why-the-ascension/
+list index out of range
+
+https://odb.org/2017/07/24/community/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/07/15/read-backwards/
+list index out of range
+
+https://odb.org/2017/09/05/a-little-bit-of-paradise/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/11/02/wake-up-call-3/
+list index out of range
+
+http://odb.org/2011/07/05/he-calls-me-friend/
+list index out of range
+
+http://odb.org/2010/10/25/toxic-look-alikes/
+list index out of range
+
+http://odb.org/2012/01/01/let’s-be-ready/
+list index out of range
+
+http://odb.org/2013/12/20/taking-refuge/
+list index out of range
+
+http://odb.org/2013/02/09/divine-diversions/
+list index out of range
+
+http://odb.org/2013/12/29/letter-to-a-child/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/03/29/thanks-god/
+list index out of range
+
+http://odb.org/2009/12/11/tears-of-repentance/
+list index out of range
+
+http://odb.org/2013/11/08/the-blessing-of-giving/
+list index out of range
+
+http://odb.org/2011/04/10/a-forever-service/
+list index out of range
+
+http://odb.org/2010/10/13/1-approachable/
+list index out of range
+
+http://odb.org/2012/01/08/birthday-giveaway/
+list index out of range
+
+http://odb.org/2014/02/02/guidance-needed/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/04/29/overcoming-bad-news/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/08/27/the-new-normal/
+list index out of range
+
+http://odb.org/2013/07/19/dont-forget-5/
+list index out of range
+
+http://odb.org/2007/05/17/the-ascended-christ/
+list index out of range
+
+http://odb.org/2012/03/21/your-bio-here/
+list index out of range
+
+http://odb.org/2005/02/15/all-year-long/
+list index out of range
+
+http://odb.org/2013/01/06/what-is-that-to-you/
+list index out of range
+
+http://odb.org/2013/05/13/tulip-day/
+list index out of range
+
+http://odb.org/2010/05/20/a-worthy-offering/
+list index out of range
+
+http://odb.org/2012/08/12/doubts-and-faith/
+list index out of range
+
+https://odb.org/2018/08/27/serve-continually/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2018/02/14/the-advance-team/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/08/18/ruts-and-routines/
+list index out of range
+
+http://odb.org/2011/11/16/beware-4/
+list index out of range
+
+http://odb.org/2013/10/19/how-long-3/
+list index out of range
+
+http://odb.org/2011/08/27/a-modest-proposal/
+list index out of range
+
+https://odb.org/2019/09/07/walking-backwards/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2003/09/05/becoming-a-mentor/
+list index out of range
+
+http://odb.org/2012/03/31/be-prepared-2/
+list index out of range
+
+http://odb.org/2010/07/28/expert-repair/
+list index out of range
+
+http://odb.org/2014/10/16/mysterious-detours/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/11/25/when-fear-creeps-in/
+list index out of range
+
+http://odb.org/2013/05/11/yesterday-today-and-tomorrow/
+list index out of range
+
+https://odb.org/2018/11/13/dumb-sheep-good-shepherd/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2018/03/05/grass-or-grace/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/06/26/her-worst-day-ever/
+list index out of range
+
+http://odb.org/2012/08/07/heavenly-exclamation/
+list index out of range
+
+http://odb.org/2012/11/17/eye-in-the-sky/
+list index out of range
+
+http://odb.org/2013/08/11/im-uh-sorry/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2016/06/08/better-by-far/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2014/06/12/keep-calm-and-carry-on/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2007/07/20/communion-on-the-moon/
+list index out of range
+
+http://odb.org/2013/04/16/cape-tribulation/
+list index out of range
+
+http://odb.org/2016/10/31/it-never-runs-out/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/05/12/seasons-of-life/
+list index out of range
+
+http://odb.org/2012/12/26/clean-hands/
+list index out of range
+
+http://odb.org/2013/04/02/friendship/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/11/04/lambs-may-wade/
+list index out of range
+
+http://odb.org/2016/01/18/minister-of-reconciliation/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/12/03/god’s-signature/
+list index out of range
+
+http://odb.org/2012/10/10/jesus-is-near/
+list index out of range
+
+http://odb.org/2016/12/12/the-money/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/04/24/faithful-to-the-finish/
+list index out of range
+
+https://odb.org/2018/05/19/even-if/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/10/15/a-debt-of-gratitude/
+list index out of range
+
+http://odb.org/2013/01/20/a-song-to-remember/
+list index out of range
+
+http://odb.org/2011/03/19/suit-up/
+list index out of range
+
+http://odb.org/2010/08/09/the-life-that-matters/
+list index out of range
+
+http://odb.org/2013/06/27/lets-stick-together/
+list index out of range
+
+http://odb.org/2012/06/02/fragile-loads/
+list index out of range
+
+http://odb.org/2016/04/20/gods-way/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/07/11/occupational-hazard/
+list index out of range
+
+http://odb.org/2016/09/28/praying-for-you-today/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/10/15/an-escort-through-the-valley/
+list index out of range
+
+http://odb.org/2016/03/07/with-respect/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/04/05/no-fine-print/
+list index out of range
+
+http://odb.org/2013/04/11/making-up-for-lost-time/
+list index out of range
+
+http://odb.org/2012/06/19/judge-rightly/
+list index out of range
+
+http://odb.org/2013/03/12/riches-of-the-soul/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/12/02/integrity-league/
+list index out of range
+
+http://odb.org/2013/10/24/re-creation
+list index out of range
+
+http://odb.org/2010/12/14/where’s-johnny’s-cap/
+list index out of range
+
+http://odb.org/2012/05/26/stand-or-go/
+list index out of range
+
+https://odb.org/2018/09/22/blessing-of-encouragers/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/07/15/a-man-my-age/
+list index out of range
+
+http://odb.org/2012/01/29/genuine-friends/
+list index out of range
+
+http://odb.org/2013/09/21/a-prize-for-peace/
+list index out of range
+
+http://odb.org/2014/10/17/from-peeker-to-seeker/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/03/04/theyre-watching/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/
+list index out of range
+
+http://odb.org/2008/01/31/minister-mentor/
+list index out of range
+
+http://odb.org/2011/12/26/wrong-worship/
+list index out of range
+
+http://odb.org/2013/06/24/flight-simulator/
+list index out of range
+
+http://odb.org/2011/06/22/facing-our-fears/
+list index out of range
+
+http://odb.org/2011/07/17/perfect-fit/
+list index out of range
+
+http://odb.org/2013/04/21/one-by-one/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/03/14/black-boxes/
+list index out of range
+
+http://odb.org/2011/08/28/failure-to-discipline/
+list index out of range
+
+http://odb.org/2010/07/22/don’t-just-retire/
+list index out of range
+
+http://odb.org/2013/05/23/star-shepherd/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/05/29/pride-and-prejudice/
+list index out of range
+
+http://odb.org/2012/06/23/enemy-deceptions/
+list index out of range
+
+http://odb.org/2009/07/26/role-models/
+list index out of range
+
+http://odb.org/2004/02/21/how-would-you-answer/
+list index out of range
+
+http://odb.org/2011/11/01/staying-clean/
+list index out of range
+
+http://odb.org/2014/05/18/a-new-bucket-list/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2016/12/19/enemy-love/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2018/07/20/home-sweet-home/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/05/21/not-abandoned-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/03/04/what-brings-happiness/
+list index out of range
+
+http://odb.org/2015/06/21/a-loving-father/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/06/16/the-speck/
+list index out of range
+
+http://odb.org/2011/02/06/overcoming-bias/
+list index out of range
+
+http://odb.org/2012/04/08/run-to-the-cross/
+list index out of range
+
+http://odb.org/2012/05/16/courageous-conversation/
+list index out of range
+
+http://odb.org/2010/12/21/parallel-universes/
+list index out of range
+
+http://odb.org/2011/03/13/chocolate-fueled-car/
+list index out of range
+
+http://odb.org/2013/03/20/thoughts-on-rain/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2003/06/06/our-unseen-helpers/
+list index out of range
+
+http://odb.org/2016/11/28/beautiful/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/02/10/flawed/
+list index out of range
+
+http://odb.org/2011/07/19/fear-factor/
+list index out of range
+
+http://odb.org/2010/09/21/navigational-system/
+list index out of range
+
+http://odb.org/2012/11/05/beyond-just-and-fair/
+list index out of range
+
+http://odb.org/2015/02/23/the-unseen-world/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/08/02/pass-it-on-3/
+list index out of range
+
+http://odb.org/2014/06/21/worlds-fastest-walkers/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2017/04/07/godliman-street-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2014/05/09/promises-still-kept/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/06/06/a-better-place-2/
+list index out of range
+
+http://odb.org/2013/11/06/a-season-for-everything/
+list index out of range
+
+http://odb.org/2014/03/06/boo/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2020/04/05/our-mighty-savior/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/01/07/truly-amazing/
+list index out of range
+
+http://odb.org/2011/09/01/find-the-book/
+list index out of range
+
+https://odb.org/2017/10/12/the-good-shepherd/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+https://odb.org/2017/11/18/hide-and-seek/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2016/04/18/unconventional-tactics/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/12/17/worth-the-risk/
+list index out of range
+
+http://odb.org/2016/10/29/the-praying-patient/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2010/04/13/he-never-sleeps/
+list index out of range
+
+http://odb.org/2010/04/07/our-only-hope-2/
+list index out of range
+
+http://odb.org/2012/02/24/fresh-and-flourishing/
+list index out of range
+
+http://odb.org/2013/08/15/the-anchor-of-our-hope/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2017/02/13/the-death-of-doubt/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/01/23/a-full-life/
+list index out of range
+
+http://odb.org/2013/06/04/pressing-on-2/
+list index out of range
+
+https://odb.org/2018/03/18/letters-home/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2016/08/27/gods-mouthpiece/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/08/14/the-joy-of-disappointment/
+list index out of range
+
+http://odb.org/2013/01/14/god-must-love-me-more/
+list index out of range
+
+http://odb.org/2014/03/22/coming-soon/
+list index out of range
+
+https://odb.org/2018/01/05/just-like-my-father/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/10/12/im-invisible/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/10/05/the-value-of-one-3/
+list index out of range
+
+http://odb.org/2010/07/08/false-predictions/
+list index out of range
+
+http://odb.org/2011/07/01/a-matter-of-opinion/
+list index out of range
+
+http://odb.org/2013/02/27/grandpa-snucked-out/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/02/15/crying-out-to-god/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/12/16/living-backward/
+list index out of range
+
+http://odb.org/2013/06/25/country-doctor/
+list index out of range
+
+http://odb.org/2011/08/23/joyful-reunion/
+list index out of range
+
+http://odb.org/2013/04/22/dust-art/
+list index out of range
+
+http://odb.org/2011/11/02/mouth-guard/
+list index out of range
+
+http://odb.org/2005/09/18/a-well-church/
+list index out of range
+
+http://odb.org/2012/12/01/do-we-matter-to-god/
+list index out of range
+
+http://odb.org/2014/02/23/limitless-love/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/12/18/christmas-journey/
+list index out of range
+
+http://odb.org/2012/07/24/planted-in-the-house-of-the-lord/
+list index out of range
+
+http://odb.org/2011/08/26/the-goodness-of-the-lord/
+list index out of range
+
+http://odb.org/2012/11/14/nowhere-to-hide/
+list index out of range
+
+http://odb.org/2013/04/27/calling-you/
+list index out of range
+
+http://odb.org/2012/03/08/the-enemy-of-trust/
+list index out of range
+
+http://odb.org/2012/07/28/from-mars/
+list index out of range
+
+http://odb.org/2009/07/24/walk-the-walk/
+list index out of range
+
+http://odb.org/2010/03/08/to-the-rescue/
+list index out of range
+
+http://odb.org/2012/10/21/harvest-day/
+list index out of range
+
+http://odb.org/2012/05/10/apologies/
+list index out of range
+
+http://odb.org/2013/05/31/fickle-followers-2/
+list index out of range
+
+http://odb.org/2012/09/08/your-heart/
+list index out of range
+
+http://odb.org/2010/04/12/the-wrong-stuff/
+list index out of range
+
+http://odb.org/2012/09/19/standing-in-the-fire/
+list index out of range
+
+http://odb.org/2011/12/19/all-is-well/
+list index out of range
+
+http://odb.org/2011/10/08/free-to-choose-2/
+list index out of range
+
+http://odb.org/2012/06/13/the-best-teacher/
+list index out of range
+
+http://odb.org/2012/10/20/watching-and-waiting/
+list index out of range
+
+http://odb.org/2016/09/20/connecting-the-dots/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/04/30/fantastic-offers/
+list index out of range
+
+http://odb.org/2016/03/12/abigails-reminder/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/12/05/get-your-wanter-fixed/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/08/25/the-next-chapter/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/04/28/self-destructive-hatred/
+list index out of range
+
+https://odb.org/2018/09/06/muscling-through/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/12/03/sandcastles/
+list index out of range
+
+https://odb.org/2017/06/20/reason-to-smile/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/08/19/the-gift-of-remembering/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/05/07/gods-timing/
+list index out of range
+
+http://odb.org/2015/11/07/mention-the-name/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2011/04/20/knowing-god’s-will/
+list index out of range
+
+http://odb.org/2011/02/28/the-core-of-the-problem/
+list index out of range
+
+http://odb.org/2013/01/28/the-good-old-days/
+list index out of range
+
+http://odb.org/2013/08/10/the-power-of-compassion/
+list index out of range
+
+http://odb.org/2012/09/29/truth-in-a-taxi/
+list index out of range
+
+http://odb.org/2014/09/01/i-am-not-forgotten/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/06/19/play-in-pain/
+list index out of range
+
+http://odb.org/2015/06/29/rescuing-the-reluctant/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2012/06/30/ignorance-innocence/
+list index out of range
+
+http://odb.org/2010/05/06/god-has-time-for-you/
+list index out of range
+
+https://odb.org/2017/03/17/after-you/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://odb.org/2013/03/03/refreshing-candor/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/bz853bUqunY/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/d6K92hv_Mx0/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/_AU-nqvvLU4/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/aIHhgfzFMXM/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/QbgDfonsZhs/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/IoBmWnIJVbs/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/N24xcmzjYrs/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/LEOmBm1bTyo/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/5ErvBIRC2Dg/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/2P4dItD3UWY/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/D1gPeDPIOj0/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/xQkPlGayuqc/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/MV2J-r9-6o0/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/wa0uhb69mlg/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/kduLxiGYypU/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/TmxgNIp8XIg/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/rSG18Gjkx6A/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/KXe5mBRBmsc/
+list index out of range
+
+http://feedproxy.google.com/~r/odb/feed/~3/70r5ZRsHxLI/
+list index out of range
