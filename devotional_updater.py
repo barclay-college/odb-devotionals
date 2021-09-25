@@ -37,7 +37,7 @@ def save_devotional_odb(url, title, verse_text, verse, todays_scripture, paragra
         file.writelines(content)
         file.write(author)
         file.writelines(prayer_box)
-        
+
 
 def testing_save_devotional_odb(url, title, verse_text, verse, todays_scripture, paragraphs, author, header, reflection, prayer):
 
@@ -58,7 +58,7 @@ def testing_save_devotional_odb(url, title, verse_text, verse, todays_scripture,
 
     for item in headers:
         print(item)
-    
+
     for item in content:
         print(item)
 
@@ -66,6 +66,7 @@ def testing_save_devotional_odb(url, title, verse_text, verse, todays_scripture,
 
     for item in prayer_box:
         print(item)
+
 
 def testing_odb(session, url):
 
@@ -96,12 +97,13 @@ def testing_odb(session, url):
         prayer = prayer_section[0].find('.devo-reflection.devo-prayer')[0].text
 
     except IndexError:
-        header = (f'This article may not have a prayer section.\n')
+        header = ('This article may not have a prayer section.\n')
         reflection = ''
         prayer = ''
         print(f'{header}')
 
     testing_save_devotional_odb(url, title, verse_text, verse, todays_scripture, paragraphs, author, header, reflection, prayer)
+
 
 def main():
 
@@ -118,15 +120,17 @@ def main():
         url = url.strip()
         pfinished = (current_url / total_urls) if current_url > 0 else 0
         print(f'Downloading URL {current_url} of {total_urls}\n{pfinished:.2%} finished')
-        odb(session, url)
+        testing_odb(session, url)
         current_url += 1
-        
+
+
 def testing():
 
     session = HTMLSession()
-        
+
     url = 'https://odb.org/2017/09/06/before-the-lord/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+odb%2Ffeed+%28Our+Daily+Bread%29'
 
     testing_odb(session, url)
+
 
 main()
